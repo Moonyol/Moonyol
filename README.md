@@ -1,6 +1,6 @@
 c++ and linux
 
-discord: @ru_239du_00231282
+discord: @ru_239du_00231282 (<@548560944536485908>)
 <!--
 ## Hi there 👋
 
