@@ -1,6 +1,8 @@
 c++ and linux
 
-discord: @ru_239du_00231282 (<@548560944536485908>)
+https://gitlab.com/Moonyol/
+
+discord: @ru_239du_00231282 (<@548560944536485908> or https://discord.com/users/548560944536485908)
 <!--
 ## Hi there 👋
 
